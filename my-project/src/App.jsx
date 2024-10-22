@@ -1,8 +1,9 @@
+
 function App() {
 
   return (
     <>
-     <div>React App by Sajmul</div>
+      <h3 className='font-bold text-4xl'>Sajmul Hossain</h3>
     </>
   )
 }
